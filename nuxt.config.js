@@ -4,6 +4,7 @@ module.exports = {
   */
   head: {
     title: 'nuxt-qiita-sample',
+    titleTemplate: '%s | Nuxt.js Qiita Viewer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
