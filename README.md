@@ -22,3 +22,14 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## Qiita Token
+``` bash
+$ brew install direnv
+
+$ echo 'eval "$(direnv hook bash)"' >> ~/.bashrc
+
+$ touch .envrc
+
+# write QIITA_TOKEN in .envrc
+```
