@@ -3,6 +3,8 @@
 > Nuxt Qiita viewer
 
 花谷拓磨著「Nuxt.jsビギナーズガイド」Chapter2のサンプルアプリを少し改変してみたもの！
+- 変更点
+ - `layouts/default.vue`の追加
 
 ## Build Setup
 

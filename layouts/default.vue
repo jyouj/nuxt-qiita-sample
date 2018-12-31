@@ -1,5 +1,7 @@
 <template>
   <div>
+    <h1>Qiita Viewer</h1>
+    <hr>
     <nuxt/>
   </div>
 </template>
@@ -50,4 +52,3 @@ html {
   background-color: #35495e;
 }
 </style>
-
