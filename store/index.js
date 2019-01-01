@@ -25,7 +25,7 @@ const store = {
   actions: {
     async fetchItems({ commit }) {
       const items = await this.$axios.$get(
-        'https://qiita.com/api/v2/items?query=tag:nuxt.js'
+        'https://qiita.com/api/v2/items?query=tag:nuxt.js+OR+tag:vue.js'
       );
       commit('setItems', { items });
     },

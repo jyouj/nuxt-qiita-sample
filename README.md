@@ -3,8 +3,9 @@
 > Nuxt Qiita viewer
 
 花谷拓磨著「Nuxt.jsビギナーズガイド」Chapter2のサンプルアプリを少し改変してみたもの！
-- 変更点
+変更点
  - `layouts/default.vue`の追加
+ - `vue.js/nuxt.js`の二つのタグ検索に対応
 
 ## Build Setup
 
